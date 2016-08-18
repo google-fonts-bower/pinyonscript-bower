@@ -1,0 +1,17 @@
+{
+    "name": "pinyonscript-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Nicole Fally"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/pinyonscript-bower.git"
+    },
+    "description": "Pinyon Script font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
